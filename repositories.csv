@@ -1,0 +1,26 @@
+org,repo_name,repo_id,stars,forks,open_issues,watchers,language,created_at,updated_at,description
+microsoft,vscode,83994,2187,2394,12,628,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,microsoft/vscode repository
+microsoft,typescript,55855,2674,1321,95,982,JavaScript,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,microsoft/typescript repository
+microsoft,terminal,23654,4207,1256,58,110,C++,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,microsoft/terminal repository
+microsoft,PowerToys,45873,7980,2788,189,335,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,microsoft/PowerToys repository
+microsoft,edge,26856,5048,4159,146,312,Java,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,microsoft/edge repository
+google,tensorflow,65379,4663,4017,186,1090,C++,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,google/tensorflow repository
+google,chrome,16356,3827,841,33,162,Python,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,google/chrome repository
+google,android,31161,1040,182,55,400,JavaScript,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,google/android repository
+google,flutter,48524,7876,2478,31,1769,TypeScript,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,google/flutter repository
+google,go,44678,5933,635,139,106,C++,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,google/go repository
+facebook,react,93895,1435,3686,158,1408,Java,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,facebook/react repository
+facebook,pytorch,46926,3160,3358,88,217,Java,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,facebook/pytorch repository
+facebook,jest,33992,8888,1720,163,614,TypeScript,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,facebook/jest repository
+facebook,relay,84107,576,1928,180,41,C++,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,facebook/relay repository
+facebook,graphql,79339,6100,3493,25,1037,C++,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,facebook/graphql repository
+twitter,bootstrap,51327,3254,662,47,679,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,twitter/bootstrap repository
+twitter,finagle,60203,1121,1673,9,1420,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,twitter/finagle repository
+twitter,twemoji,38500,492,486,48,724,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,twitter/twemoji repository
+twitter,heron,39607,1488,106,87,1628,TypeScript,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,twitter/heron repository
+twitter,scalding,32551,9567,3287,179,646,Go,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,twitter/scalding repository
+amazon,aws-sdk,17472,5585,1300,131,1152,Python,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,amazon/aws-sdk repository
+amazon,dynamodb,43633,5752,3083,152,587,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,amazon/dynamodb repository
+amazon,s3,50057,7686,1309,80,1427,Java,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,amazon/s3 repository
+amazon,lambda,33699,2846,4240,21,723,JavaScript,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,amazon/lambda repository
+amazon,ec2,80341,1647,175,185,1212,Ruby,2020-01-01T00:00:00Z,2023-01-01T00:00:00Z,amazon/ec2 repository
