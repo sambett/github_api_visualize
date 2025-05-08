@@ -2,9 +2,6 @@
 
 An interactive dashboard for visualizing GitHub repository activity, built with Python, GitHub API, and Streamlit.
 
-## Screenshots
-
-[Add screenshots of the dashboard here]
 
 ## Features
 
